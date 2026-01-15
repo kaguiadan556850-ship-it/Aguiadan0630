@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiera Carah Lane Aguiadan</h1>
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<h3 align="center">A student developer from the Philippines</h3>
 
 - 🌱 I’m currently learning **Website development and UI UX**
 
